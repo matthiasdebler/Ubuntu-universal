@@ -1,0 +1,5 @@
+Script systemweit zugänglich machen
+
+sudo cp script.sh /usr/local/bin/
+sudo chown root:root /usr/local/bin/
+sudo chmod 755 /usr/local/bin/
